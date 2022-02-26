@@ -1,0 +1,10 @@
+.introduction {
+	color: black;
+    padding: 20px;
+	align-items: left;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(1,0,0,0.1);
+	border-radius: 7px;
+	margin: 10px;
+	padding-left: 20px;
+}
